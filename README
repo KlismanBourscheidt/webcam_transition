@@ -1,0 +1,9 @@
+Libraries used:
+
+pip install opencv-python
+pip install keyboard
+
+If you use OBS Studio, you can view and use the webcam in other programs, such as Discord, for example.
+
+If you have two webcams, you should change the variable to “camera2” and indicate the number (1).
+
