@@ -3,7 +3,7 @@ import keyboard  # para detectar teclas em segundo plano
 
 # Inicializar a captura de vídeo para a webcam local e o celular
 webcam1 = cv2.VideoCapture(0)
-webcam2 = cv2.VideoCapture("http://192.168.18.214:8080/video")
+webcam2 = cv2.VideoCapture("URL CAM OR NUMBER (1)")
 
 # Definir a largura e altura padrão
 WIDTH = 1280
